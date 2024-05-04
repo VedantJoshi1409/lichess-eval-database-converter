@@ -66,5 +66,5 @@ It does this by making the first move in the principle variation and outputting 
 
 ## Usage
 - Decompress the .zst file into a .jsonl, PeaZip is recommended.
-- Fill in convert() method params, and run the "Main" file.
+- Fill in convert() method params in Main.java, and run it.
 - The default is: ```convert(10000, 100000, "lichess_db_eval.jsonl", "output.txt");```
