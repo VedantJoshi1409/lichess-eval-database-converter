@@ -1,4 +1,4 @@
-Converts data from https://database.lichess.org/#evals into a txt where each line is in the following format: 
+Converts data from https://database.lichess.org/#evals into a txt where each line is in the following format:\
 fen, eval
 
 ## Example
