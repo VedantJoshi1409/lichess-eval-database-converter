@@ -67,7 +67,7 @@ It does this by making the first move in the principle variation and outputting 
 ## Requirements
 Jackson Core - https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core \
 Jackson Databind - https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind \
-Jackson Annotations - https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations \
+Jackson Annotations - https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations 
 
 ## Usage
 - Decompress the .zst file into a .jsonl, PeaZip is recommended.
