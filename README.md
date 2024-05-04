@@ -53,12 +53,12 @@ fen, eval
 ```
 ## Converts to
 
-2bq1rk1/pr3ppn/1p2p3/7P/2pPBB1P/2P5/PPQ2P2/R3R1K1 b - -, 311
-2bq1rk1/pr3ppn/1p2p3/7P/2pPBB1P/2P5/PPQ2P2/R3R1K1 b - -, 292
-2bq1rk1/pr3ppn/1p2p3/7P/2pP3P/2P3B1/PPQ2PB1/R3R1K1 b - -, 277
-2bq1rk1/pr3ppn/1p2p2P/8/2pP1B1P/2P5/PPQ2PB1/R3R1K1 b - -, 190
-2bq1rk1/pr3ppn/1p2p3/7P/2pPBB1P/2P5/PPQ2P2/R3R1K1 b - -, 186
-2bq1rk1/pr3ppn/1p2p3/7P/2pP3P/2P3B1/PPQ2PB1/R3R1K1 b - -, 176
+2bq1rk1/pr3ppn/1p2p3/7P/2pPBB1P/2P5/PPQ2P2/R3R1K1 b - -, 311\
+2bq1rk1/pr3ppn/1p2p3/7P/2pPBB1P/2P5/PPQ2P2/R3R1K1 b - -, 292\
+2bq1rk1/pr3ppn/1p2p3/7P/2pP3P/2P3B1/PPQ2PB1/R3R1K1 b - -, 277\
+2bq1rk1/pr3ppn/1p2p2P/8/2pP1B1P/2P5/PPQ2PB1/R3R1K1 b - -, 190\
+2bq1rk1/pr3ppn/1p2p3/7P/2pPBB1P/2P5/PPQ2P2/R3R1K1 b - -, 186\
+2bq1rk1/pr3ppn/1p2p3/7P/2pP3P/2P3B1/PPQ2PB1/R3R1K1 b - -, 176\
 
 ## Usage
 - Decompress the .zst file into a .jsonl, PeaZip is recommended.
