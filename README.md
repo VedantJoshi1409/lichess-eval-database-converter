@@ -65,8 +65,8 @@ It does this by making the first move in the principle variation and outputting 
 2bq1rk1/pr3ppn/1p2p3/7P/2pP3P/2P3B1/PPQ2PB1/R3R1K1 b - -, 176
 
 ## Requirements
-Jackson Core - https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core
-Jackson Databind - https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind
+Jackson Core - https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core/
+Jackson Databind - https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/
 Jackson Annotations - https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations
 
 ## Usage
