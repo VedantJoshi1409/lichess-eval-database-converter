@@ -1,5 +1,6 @@
 Converts data from https://database.lichess.org/#evals into a txt where each line is in the following format:\
-fen, eval
+fen, eval\
+It does this by making the first move in the principle variation and outputting that fen, with the centipawn value
 
 ## Example
 ```
